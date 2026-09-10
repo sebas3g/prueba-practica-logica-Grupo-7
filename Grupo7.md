@@ -15,5 +15,7 @@ que nos recomienda?
 
 Francis>>La verdad, mi expectativa con la evaluación es que el profe note todo el tiempo y las ganas que le metimos al proyecto espero que saquemos una buena nota y que los comentarios nos sirvan para lo que viene en la carrera. ¡Salió un gran trabajo!
 
+Dixon >> Yo espero que hagamos bien esta asignación y que nos salga todo bien para no tener problemas y así obtener buena calificación.
+
 
 ¡Gracias por visitar nuestro repositorio! 🚀
