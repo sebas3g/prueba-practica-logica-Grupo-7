@@ -9,7 +9,7 @@ Cada integrante aporta en el repositorio para lograr el resultado final.
 
 Para conocer la opinión de todos los integrantes:
 
-**¿Qué aspiraciones tienen de la evaluacion?**
+**¿Qué aspiraciones tienen de la evaluacion?** 
 
 
 ¡Gracias por visitar nuestro repositorio! 🚀
