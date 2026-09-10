@@ -19,3 +19,5 @@ Dixon >> Yo espero que hagamos bien esta asignación y que nos salga todo bien p
 
 
 ¡Gracias por visitar nuestro repositorio! 🚀
+
+ La Evaluacion de la tarea 1 correspondiente a 10/09/2026 >>>> 0
