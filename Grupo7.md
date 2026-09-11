@@ -26,6 +26,13 @@ Dixon >> Yo espero que hagamos bien esta asignación y que nos salga todo bien p
 
 </div>
 
+## Recomendaciones antes del examen
+
+- **Entiende el "por qué", no solo el "cómo".** Saber que una línea de código funciona no es suficiente; debes poder justificar por qué se implementó de esa manera. 
+- **Repasar la terminología técnica** relacionada con el tema (por ejemplo, diseño, ciclos, bucles, etc., según corresponda. 
+- **Tener a la mano los diagramas** (diagrama de flujo) ya que suelen ser el punto de partida de las preguntas. 
+- **Distribuir responsabilidades para el repaso final**, pero asegúrense de que exista solapamiento: que más de una persona domine cada tema. 
+
 Gracias por visitar nuestro repositorio 🚀
 
  La Evaluacion de la tarea 1 correspondiente a 10/09/2026 >>>> 0
