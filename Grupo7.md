@@ -1,4 +1,4 @@
-# PTPP01-Evalu-SN
+# Prueba Practica Grupo 7
 Bienvenidos a nuestro proyecto
 
 ¡Hola a todos! Bienvenidos a nuestro proyecto. En este repositorio se encuentra el trabajo realizado por nuestro equipo, donde aplicamos los conocimientos aprendidos durante la materia de programación.
