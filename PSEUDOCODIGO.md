@@ -1,8 +1,10 @@
+## Pseudocódigo (PSeInt)
 
-// GRUPO 7 - ExpressLogistics: Envios
-// Tarifas por kg: 1 Local $1.50 | 2 Nacional $3.50 | 3 Internacional $9.00
-// Recargo Express: 25% sobre el costo
-// Pesos mayores a 10 kg se rechazan
+```
+ GRUPO 7 - ExpressLogistics: Envios
+ Tarifas por kg: 1 Local $1.50 | 2 Nacional $3.50 | 3 Internacional $9.00
+ Recargo Express: 25% sobre el costo
+ Pesos mayores a 10 kg se rechazan
 Algoritmo ExpressLogistics
 	Definir n, i, zona, cantExpress, cantRechazados, cantProcesados Como Entero
 	Definir peso, tarifaKg, costo, recargo, totalFacturado, pesoMax Como Real
@@ -118,3 +120,4 @@ Algoritmo ExpressLogistics
 	FinSi
 	Escribir "Fin del programa."
 FinAlgoritmo
+
